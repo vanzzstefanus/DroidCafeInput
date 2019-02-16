@@ -1,0 +1,4 @@
+#Thu Feb 14 17:30:49 WIB 2019
+base.0=/Users/macbookpro/AndroidStudioProjects/DroidCafeChallenge/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
